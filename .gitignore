@@ -231,3 +231,4 @@ tmtags
 # *.logs
 
 
+.envrc
