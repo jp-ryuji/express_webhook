@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/jp-ryuji/express_webhook/issues"
   },
-  "homepage": "https://github.com/jp-ryuji/express_webhook#readme"
+  "homepage": "https://github.com/jp-ryuji/express_webhook#readme",
+  "dependencies": {
+    "actions-on-google": "^2.0.1",
+    "apiai": "^4.0.3",
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.3",
+    "querystring": "^0.2.0",
+    "request": "^2.85.0"
+  }
 }
